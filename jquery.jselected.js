@@ -36,7 +36,7 @@
                 }
 
                 //select all if "any" is clicked
-                if ($this.is(".rq-any-value")) {
+                if ($this.is(".jselected-any-value")) {
 
                     if ($this.is(":checked")) {
                         $group.each(function(){
