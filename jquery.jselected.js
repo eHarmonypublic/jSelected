@@ -1,6 +1,6 @@
 /**
  * @title jSelected
- * @overview Helper to add classes to a parent when a checkbox or radio button is selected
+ * @overview jQuery plugin to persist radio and checkbox state to a parent element.
  * @author Alex Bernier
  */
 (function($){
